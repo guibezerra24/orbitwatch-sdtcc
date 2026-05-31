@@ -2,3 +2,5 @@ gradio
 numpy
 joblib
 scikit-learn
+flask
+gunicorn
